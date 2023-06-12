@@ -1,2 +1,2 @@
-#!?bin/bash
-a confused smiley (ôo)'
+#!/bin/bash
+echo a confused smiley (ôo)'
