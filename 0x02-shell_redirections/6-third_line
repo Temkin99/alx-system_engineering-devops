@@ -1,2 +1,0 @@
-#!/bin/bash
-with open('iacta', 'r') as file: lines = file.readlines() print(lines[2])
